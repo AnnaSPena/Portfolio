@@ -1,0 +1,23 @@
+h1 {
+font-family:'Lucida Sans'; 
+text-align: center;
+}
+
+p{
+font-family:Verdana;
+}
+
+body {
+background-color: rgb(76, 223, 243);
+
+}
+
+h2{
+text-align: center;
+text-underline;
+
+}
+
+h3{
+    text-align:center;
+}
